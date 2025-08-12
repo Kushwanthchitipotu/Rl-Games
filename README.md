@@ -91,3 +91,8 @@ RL-Games/
 │
 └── README.md
 ```
+## Acknowledgments
+
+This Games was completed as part of the course Reinforcement learning(Ai3000) under the guidance of **Professor  Easwar Subramanian** at IIT Hyderabad. We thank them for their support and valuable feedback.
+
+---
